@@ -187,6 +187,13 @@ BUILD SUCCESS
 
 ---
 
+# Demo Video
+
+The project demonstration video is available in this repository:
+
+[DemoVideo.mp4](DemoVideo.mp4)
+
+
 # Conclusion
 
 This project successfully demonstrates the implementation of Queue and Doubly Linked List data structures in a healthcare-based patient management system. The system supports patient queue management, medical history navigation, and automated testing using JUnit.
