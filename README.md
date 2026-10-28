@@ -189,9 +189,7 @@ BUILD SUCCESS
 
 # Demo Video
 
-The project demonstration video is available in this repository:
-
-[DemoVideo.mp4](DemoVideo.mp4)
+The project demonstration video is submitted separately with the assignment submission.
 
 
 # Conclusion
